@@ -1,0 +1,3 @@
+[submodule "IntroductionToKnockoutJS/ko-js-examples"]
+	path = IntroductionToKnockoutJS/ko-js-examples
+	url = git://github.com/veloper/ko-js-examples.git
