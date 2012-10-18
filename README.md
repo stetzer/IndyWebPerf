@@ -2,7 +2,8 @@ This Git repo contains the notes & sample code from meetings of the [Indianapoli
 
 Content associated with the following past meetups is contained this repo (in reverse chronological order):
 
-* An Introduction to Knockout.js
+* Retina Optimization for the Web (speaker Andrew Greenburg)
+* An Introduction to Knockout.js (speaker Daniel Doezema)
 * Javascript Performance Tuning
 * Case Study: YOUR Website!
 * YSlow Crash Course
